@@ -1,6 +1,7 @@
 #include "src/tictactoe.c"
 
-int main(){
+int main()
+{
     run();
     return 0;
 }
